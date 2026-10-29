@@ -29,7 +29,14 @@ Identifies **BPSK / QPSK / 16-QAM / 64-QAM** from raw I/Q samples with a PyTorch
 
 - **69.89%** mixed-SNR accuracy, **79.5%** at 10 dB
 - Per-SNR evaluation, constellation demo and TorchScript serving
-- 30 tests covering signals, model, API and training helpers
+- 31 tests covering signals, model, API and training helpers
+
+### Other work
+
+- [ParkNet](https://github.com/MoLoUiSsS/parknet) — IoT parking platform with
+  Algerian plate OCR, an Arduino barrier and a real-time dashboard.
+- [LOW-TPS](https://github.com/MoLoUiSsS/LOW-TPS) — academic XML benchmark covering
+  XSLT, XSD, XQuery, DOM and SAX.
 
 ## Toolbox
 

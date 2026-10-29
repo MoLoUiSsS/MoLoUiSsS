@@ -1,5 +1,4 @@
-# Hi, I'm Abdullah 👋
-
+# Hi
 Final-year computer science student at **ESI Sidi Bel Abbès**, building machine-learning
 systems with a telecom and network-security angle. I enjoy taking a model from a
 notebook to a tested, containerized service — data, training, evaluation, API, CI and
